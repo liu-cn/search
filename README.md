@@ -5,7 +5,7 @@
 如果有go环境的话可以直接go install 安装，
 
 ```go
-    go install github.com/liu-cn/search
+    go install github.com/liu-cn/search@latest
 ```
 
 没有go环境，可自行下载windows macos linux 指定操作系统文件夹下可执行文件，下载后添加到环境变量即可使用
